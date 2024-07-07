@@ -1,4 +1,8 @@
- 
+git checkout help to bring back the repository to last 
+commited version if we dont want this new changes 
+in repository
+
+
 this is chapter3
 i enjoy reading this chapter
 
