@@ -1,1 +1,7 @@
+// Steps to create gitignore file
+(i) Type : echo. > .gitignore
+by this we created a gitignore file
+(ii) Now we can write the files with their extension in this to ignore them or 
+to get added to git repo
  
+
