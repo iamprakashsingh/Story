@@ -3,5 +3,12 @@
 by this we created a gitignore file
 (ii) Now we can write the files with their extension in this to ignore them or 
 to get added to git repo
+
+//Steps to create new branch
+(i) type:git branch "new branch name"
+      ex:git branch alien-plot
+(ii) git branch (to check all branches we have)
+(iii)git checkout alien-plot(to checkout to the new branch)
+
  
 
